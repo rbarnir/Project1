@@ -1,0 +1,62 @@
+
+/*font-family: 'Raleway', sans-serif;*/
+/*font-family: 'Ubuntu', sans-serif;*/
+
+
+/*general text*/
+
+h1, h2 {
+   font-family: 'Raleway', sans-serif; 
+}
+
+p {
+  font-family: 'Ubuntu', sans-serif;  
+}
+
+h1, h2, p {
+    color: #2B3770;
+}
+
+/*nav*/
+
+nav {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    background:#0063DD;
+    font-family: 'Raleway', sans-serif; 
+    padding: 4px;
+    display: block;
+    text-decoration: none;
+    color: #C2D7ED;
+    font-weight: bold;
+    border-radius: 5px;
+    width: 70px;
+    text-align: center;
+}
+
+nav a:hover {
+    color: #0063DD;
+    background: #C2D7ED;
+    
+/*layout of contact page*/
+/*layout of contact page*/
+    
+label {
+    font-family: 'Ubuntu', sans-serif; 
+    }
+    
+
+
+    
